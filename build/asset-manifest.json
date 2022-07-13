@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/uzmakhan88/newsmonkey.git/static/css/main.abd64e84.css",
+    "main.js": "/uzmakhan88/newsmonkey.git/static/js/main.5da1527a.js",
+    "static/js/787.8f049120.chunk.js": "/uzmakhan88/newsmonkey.git/static/js/787.8f049120.chunk.js",
+    "index.html": "/uzmakhan88/newsmonkey.git/index.html",
+    "main.abd64e84.css.map": "/uzmakhan88/newsmonkey.git/static/css/main.abd64e84.css.map",
+    "main.5da1527a.js.map": "/uzmakhan88/newsmonkey.git/static/js/main.5da1527a.js.map",
+    "787.8f049120.chunk.js.map": "/uzmakhan88/newsmonkey.git/static/js/787.8f049120.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.5da1527a.js"
+  ]
+}
